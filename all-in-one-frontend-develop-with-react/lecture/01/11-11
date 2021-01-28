@@ -1,0 +1,24 @@
+11. 11. 특수기호
+
+` Grave(그레이브)
+~ Tilde(틸드)
+* Asterisk(에스터리스크)
+- Hyphen(하이픈), Dash(대쉬)
+_ Underscore(언더스코어), Low dash(로대쉬)
+= Equals(이퀄) sign
+, Comma(콤마)
+. Period(피어리드), Dot(닷)
+? Question(퀘스천) mark
+/ Slash(슬래쉬)
+| Vertical bar(버티컬 바)
+\ Backslash(백슬래쉬)
+() Parenthesis(퍼렌서시스)
+{} Brace(브레이스)
+[] Bracket(브래킷)
+<> Angle Bracket(앵글 브래킷) 꺽쇠괄호
+
+HTML Entity List (https://www.freeformatter.com/html-entities.html)
+
+< Entity Name >
+< $lt;
+> &gt;
